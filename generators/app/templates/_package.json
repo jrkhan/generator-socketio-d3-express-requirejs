@@ -1,0 +1,10 @@
+{
+  "name": "<%= name %>",
+  "version": "1.0.0",
+  "description": "auto-generated project",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {}
+}

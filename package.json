@@ -1,0 +1,20 @@
+{
+  "name": "generator-socketio-d3-express-requirejs",
+  "version": "1.0.0",
+  "description": "quick setup using socketio, d3, express, and requirejs",
+  "files": [
+    "generators/app"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jamil Khan",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
