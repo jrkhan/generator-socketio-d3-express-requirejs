@@ -13,6 +13,10 @@
     "yeoman-generator"
   ],
   "author": "Jamil Khan",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/jrkhan/generator-socketio-d3-express-requirejs.git"
+  },
   "license": "ISC",
   "dependencies": {
     "yeoman-generator": "^0.24.1"
