@@ -8,7 +8,7 @@ npm start
 ```
 
 Once installation is complete, try opening two browser tabs to localhost:(port) to see to confirm that all dependancies are working.
-If all is well, you should see one svg:circle per open tag.
+If all is well, you should see one svg:circle per open browser.
 
 # Project Structure
 ```
