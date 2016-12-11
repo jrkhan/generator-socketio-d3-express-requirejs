@@ -13,10 +13,10 @@ If all is well, you should see one svg:circle per open browser tab.
 # Project Structure
 ```
 ├── app.js                  - Express app and server code
-├── package.json            - Dev dependencies
+├── package.json            - Project dependencies
 |── public/                 - Files available through express static
 |   |── index.html          
 |   |── scripts/
-|   |   |── config.js       - requirejs configuration
-|   |   |── main.js         - entry point
+|   |   |── config.js       - Requirejs configuration
+|   |   |── main.js         - Entry point
 ```
